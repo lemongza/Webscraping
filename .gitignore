@@ -5,3 +5,4 @@ img/
 img.html
 *.jpg
 .env
+.DS_Store
